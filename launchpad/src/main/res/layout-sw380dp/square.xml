@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <Button
+        android:id="@+id/b1"
+        android:tag="b1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/roundedbutton"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_margin="4dp"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textColor="#000"
+        android:textSize="16dp"
+        android:layout_alignBaseline="@+id/b1"
+        android:layout_alignBottom="@+id/b1"
+        android:layout_alignRight="@+id/b1"
+        android:layout_alignEnd="@+id/b1"
+        android:layout_marginRight="15dp"
+        android:layout_marginEnd="15dp"
+        android:elevation="100dp"/>
+    <TextView
+        android:id="@+id/tV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textColor="#000"
+        android:textSize="16dp"
+        android:elevation="100dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignLeft="@+id/textView"
+        android:layout_alignStart="@+id/textView"
+        android:layout_marginTop="6dp" />
+
+
+</RelativeLayout>

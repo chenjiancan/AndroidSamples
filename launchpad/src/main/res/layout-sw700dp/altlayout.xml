@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:keepScreenOn="true"
+    android:id="@+id/altpad">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_weight="3"
+        android:layout_margin="3dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/b1"
+                    android:tag="b1"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/roundedbutton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="4dp"/>
+
+                <TextView
+                    android:id="@+id/b1tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Kick 3"
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:layout_alignBaseline="@+id/b1"
+                    android:layout_alignBottom="@+id/b1"
+                    android:layout_alignRight="@+id/b1"
+                    android:layout_alignEnd="@+id/b1"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:elevation="100dp"/>
+                <TextView
+                    android:id="@+id/b1tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:elevation="100dp"
+                    android:layout_below="@+id/b1tv1"
+                    android:layout_alignLeft="@+id/b1tv1"
+                    android:layout_alignStart="@+id/b1tv1"
+                    android:layout_marginTop="6dp" />
+
+
+            </RelativeLayout>
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/b2"
+                    android:tag="b2"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/roundedbutton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="4dp"/>
+
+                <TextView
+                    android:id="@+id/b2tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hat 1"
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:layout_alignBaseline="@+id/b2"
+                    android:layout_alignBottom="@+id/b2"
+                    android:layout_alignRight="@+id/b2"
+                    android:layout_alignEnd="@+id/b2"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:elevation="100dp"/>
+                <TextView
+                    android:id="@+id/b2tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:elevation="100dp"
+                    android:layout_below="@+id/b2tv1"
+                    android:layout_alignLeft="@+id/b2tv1"
+                    android:layout_alignStart="@+id/b2tv1"
+                    android:layout_marginTop="6dp" />
+
+
+            </RelativeLayout>
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/b3"
+                    android:tag="b3"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/roundedbutton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="4dp"/>
+
+                <TextView
+                    android:id="@+id/b3tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Kick 2"
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:layout_alignBaseline="@+id/b3"
+                    android:layout_alignBottom="@+id/b3"
+                    android:layout_alignRight="@+id/b3"
+                    android:layout_alignEnd="@+id/b3"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:elevation="100dp"/>
+                <TextView
+                    android:id="@+id/b3tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:elevation="100dp"
+                    android:layout_below="@+id/b3tv1"
+                    android:layout_alignLeft="@+id/b3tv1"
+                    android:layout_alignStart="@+id/b3tv1"
+                    android:layout_marginTop="6dp" />
+
+
+            </RelativeLayout>
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/b4"
+                    android:tag="b4"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/roundedbutton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="4dp"/>
+
+                <TextView
+                    android:id="@+id/b4tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hat 1"
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:layout_alignBaseline="@+id/b4"
+                    android:layout_alignBottom="@+id/b4"
+                    android:layout_alignRight="@+id/b4"
+                    android:layout_alignEnd="@+id/b4"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:elevation="100dp"/>
+                <TextView
+                    android:id="@+id/b4tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:elevation="100dp"
+                    android:layout_below="@+id/b4tv1"
+                    android:layout_alignLeft="@+id/b4tv1"
+                    android:layout_alignStart="@+id/b4tv1"
+                    android:layout_marginTop="6dp" />
+
+
+            </RelativeLayout>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/b5"
+                    android:tag="b5"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/roundedbutton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="4dp"/>
+
+                <TextView
+                    android:id="@+id/b5tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Kick 3"
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:layout_alignBaseline="@+id/b5"
+                    android:layout_alignBottom="@+id/b5"
+                    android:layout_alignRight="@+id/b5"
+                    android:layout_alignEnd="@+id/b5"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:elevation="100dp"/>
+                <TextView
+                    android:id="@+id/b5tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:elevation="100dp"
+                    android:layout_below="@+id/b5tv1"
+                    android:layout_alignLeft="@+id/b5tv1"
+                    android:layout_alignStart="@+id/b5tv1"
+                    android:layout_marginTop="6dp" />
+
+
+            </RelativeLayout>
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/b6"
+                    android:tag="b6"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/roundedbutton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="4dp"/>
+
+                <TextView
+                    android:id="@+id/b6tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hat 1"
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:layout_alignBaseline="@+id/b6"
+                    android:layout_alignBottom="@+id/b6"
+                    android:layout_alignRight="@+id/b6"
+                    android:layout_alignEnd="@+id/b6"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:elevation="100dp"/>
+                <TextView
+                    android:id="@+id/b6tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:elevation="100dp"
+                    android:layout_below="@+id/b6tv1"
+                    android:layout_alignLeft="@+id/b6tv1"
+                    android:layout_alignStart="@+id/b6tv1"
+                    android:layout_marginTop="6dp" />
+
+
+            </RelativeLayout>
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/b7"
+                    android:tag="b7"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/roundedbutton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="4dp"/>
+
+                <TextView
+                    android:id="@+id/b7tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hat 2"
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:layout_alignBaseline="@+id/b7"
+                    android:layout_alignBottom="@+id/b7"
+                    android:layout_alignRight="@+id/b7"
+                    android:layout_alignEnd="@+id/b7"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:elevation="100dp"/>
+                <TextView
+                    android:id="@+id/b7tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:elevation="100dp"
+                    android:layout_below="@+id/b7tv1"
+                    android:layout_alignLeft="@+id/b7tv1"
+                    android:layout_alignStart="@+id/b7tv1"
+                    android:layout_marginTop="6dp" />
+
+
+            </RelativeLayout>
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/b8"
+                    android:tag="b8"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/roundedbutton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="4dp"/>
+
+                <TextView
+                    android:id="@+id/b8tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hat 1"
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:layout_alignBaseline="@+id/b8"
+                    android:layout_alignBottom="@+id/b8"
+                    android:layout_alignRight="@+id/b8"
+                    android:layout_alignEnd="@+id/b8"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:elevation="100dp"/>
+                <TextView
+                    android:id="@+id/b8tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:elevation="100dp"
+                    android:layout_below="@+id/b8tv1"
+                    android:layout_alignLeft="@+id/b8tv1"
+                    android:layout_alignStart="@+id/b8tv1"
+                    android:layout_marginTop="6dp" />
+
+
+            </RelativeLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/space"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_weight="2"
+        android:layout_margin="8dp">
+        <TextView
+            android:id="@+id/bpm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center_vertical"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:text="100bpm"/>
+        <SeekBar
+            android:id="@+id/seekBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:layout_gravity="center"
+            android:max="300" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_weight="3"
+        android:layout_margin="3dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/b9"
+                    android:tag="b9"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/roundedbutton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="4dp"/>
+
+                <TextView
+                    android:id="@+id/b9tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="FX 3"
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:layout_alignBaseline="@+id/b9"
+                    android:layout_alignBottom="@+id/b9"
+                    android:layout_alignRight="@+id/b9"
+                    android:layout_alignEnd="@+id/b9"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:elevation="100dp"/>
+                <TextView
+                    android:id="@+id/b9tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:elevation="100dp"
+                    android:layout_below="@+id/b9tv1"
+                    android:layout_alignLeft="@+id/b9tv1"
+                    android:layout_alignStart="@+id/b9tv1"
+                    android:layout_marginTop="6dp" />
+
+
+            </RelativeLayout>
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/b10"
+                    android:tag="b10"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/roundedbutton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="4dp"/>
+
+                <TextView
+                    android:id="@+id/b10tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="FX 4"
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:layout_alignBaseline="@+id/b10"
+                    android:layout_alignBottom="@+id/b10"
+                    android:layout_alignRight="@+id/b10"
+                    android:layout_alignEnd="@+id/b10"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:elevation="100dp"/>
+                <TextView
+                    android:id="@+id/b10tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:elevation="100dp"
+                    android:layout_below="@+id/b10tv1"
+                    android:layout_alignLeft="@+id/b10tv1"
+                    android:layout_alignStart="@+id/b10tv1"
+                    android:layout_marginTop="6dp" />
+
+
+            </RelativeLayout>
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/b11"
+                    android:tag="b11"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/roundedbutton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="4dp"/>
+
+                <TextView
+                    android:id="@+id/b11tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="FX 5"
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:layout_alignBaseline="@+id/b11"
+                    android:layout_alignBottom="@+id/b11"
+                    android:layout_alignRight="@+id/b11"
+                    android:layout_alignEnd="@+id/b11"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:elevation="100dp"/>
+                <TextView
+                    android:id="@+id/b11tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:elevation="100dp"
+                    android:layout_below="@+id/b11tv1"
+                    android:layout_alignLeft="@+id/b11tv1"
+                    android:layout_alignStart="@+id/b11tv1"
+                    android:layout_marginTop="6dp" />
+
+
+            </RelativeLayout>
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/b12"
+                    android:tag="b12"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/roundedbutton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="4dp"/>
+
+                <TextView
+                    android:id="@+id/b12tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="FX 7"
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:layout_alignBaseline="@+id/b12"
+                    android:layout_alignBottom="@+id/b12"
+                    android:layout_alignRight="@+id/b12"
+                    android:layout_alignEnd="@+id/b12"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:elevation="100dp"/>
+                <TextView
+                    android:id="@+id/b12tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:elevation="100dp"
+                    android:layout_below="@+id/b12tv1"
+                    android:layout_alignLeft="@+id/b12tv1"
+                    android:layout_alignStart="@+id/b12tv1"
+                    android:layout_marginTop="6dp" />
+
+
+            </RelativeLayout>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/b13"
+                    android:tag="b13"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/roundedbutton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="4dp"/>
+
+                <TextView
+                    android:id="@+id/b13tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Lead 2"
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:layout_alignBaseline="@+id/b13"
+                    android:layout_alignBottom="@+id/b13"
+                    android:layout_alignRight="@+id/b13"
+                    android:layout_alignEnd="@+id/b13"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:elevation="100dp"/>
+                <TextView
+                    android:id="@+id/b13tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:elevation="100dp"
+                    android:layout_below="@+id/b13tv1"
+                    android:layout_alignLeft="@+id/b13tv1"
+                    android:layout_alignStart="@+id/b13tv1"
+                    android:layout_marginTop="6dp" />
+
+
+            </RelativeLayout>
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/b14"
+                    android:tag="b14"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/roundedbutton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="4dp"/>
+
+                <TextView
+                    android:id="@+id/b14tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Lead 3"
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:layout_alignBaseline="@+id/b14"
+                    android:layout_alignBottom="@+id/b14"
+                    android:layout_alignRight="@+id/b14"
+                    android:layout_alignEnd="@+id/b14"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:elevation="100dp"/>
+                <TextView
+                    android:id="@+id/b14tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:elevation="100dp"
+                    android:layout_below="@+id/b14tv1"
+                    android:layout_alignLeft="@+id/b14tv1"
+                    android:layout_alignStart="@+id/b14tv1"
+                    android:layout_marginTop="6dp" />
+
+
+            </RelativeLayout>
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/b15"
+                    android:tag="b15"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/roundedbutton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="4dp"/>
+
+                <TextView
+                    android:id="@+id/b15tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Bass 3"
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:layout_alignBaseline="@+id/b15"
+                    android:layout_alignBottom="@+id/b15"
+                    android:layout_alignRight="@+id/b15"
+                    android:layout_alignEnd="@+id/b15"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:elevation="100dp"/>
+                <TextView
+                    android:id="@+id/b15tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:elevation="100dp"
+                    android:layout_below="@+id/b15tv1"
+                    android:layout_alignLeft="@+id/b15tv1"
+                    android:layout_alignStart="@+id/b15tv1"
+                    android:layout_marginTop="6dp" />
+
+
+            </RelativeLayout>
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/b16"
+                    android:tag="b16"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/roundedbutton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="4dp"/>
+
+                <TextView
+                    android:id="@+id/b16tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Lead 4"
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:layout_alignBaseline="@+id/b16"
+                    android:layout_alignBottom="@+id/b16"
+                    android:layout_alignRight="@+id/b16"
+                    android:layout_alignEnd="@+id/b16"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:elevation="100dp"/>
+                <TextView
+                    android:id="@+id/b16tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#000"
+                    android:textSize="24dp"
+                    android:elevation="100dp"
+                    android:layout_below="@+id/b16tv1"
+                    android:layout_alignLeft="@+id/b16tv1"
+                    android:layout_alignStart="@+id/b16tv1"
+                    android:layout_marginTop="6dp" />
+
+
+            </RelativeLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+    <!--<com.google.android.gms.ads.AdView-->
+        <!--xmlns:ads="http://schemas.android.com/apk/res-auto"-->
+        <!--android:id="@+id/adView"-->
+        <!--android:layout_weight="1"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--ads:adSize="SMART_BANNER"-->
+        <!--ads:adUnitId="ca-app-pub-2850894510404054/6828907324">-->
+    <!--</com.google.android.gms.ads.AdView>-->
+</LinearLayout>

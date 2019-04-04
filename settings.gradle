@@ -1,0 +1,2 @@
+include ':app', ':launchpad', ':vitamio', ':djmediaplayer', ':gifdemo', ':servicedemo'
+include ':soundBoard'

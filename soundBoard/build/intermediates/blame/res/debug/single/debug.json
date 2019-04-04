@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\layout_precision.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\layout\\precision.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_folder.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\folder.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\anim_slide_left_out.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_edit0.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\edit0.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\layout_savedialog.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\layout\\savedialog.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\layout_row.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\layout_replay.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\layout\\replay.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\anim_slide_left_in.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hihat1.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\hihat1.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable_my_border_darker.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable\\my_border_darker.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_record2.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\record2.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mic.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\mic.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\layout_snipper.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\layout\\snipper.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\layout_dialog.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pause_off.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\pause_off.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\layout_searcher.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\layout\\searcher.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_recorder1.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\recorder1.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_orange3.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\orange3.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_music.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\music.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_edit1.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\edit1.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mic_w.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\mic_w.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\blue.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cymbol1.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\cymbol1.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_start0.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\start0.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_snip0.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\snip0.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_green.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\green.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_soundboardicon.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\soundboardicon.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\anim_slide_right_out.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_snare0.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\snare0.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_inactive.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\inactive.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_about0.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\about0.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_writing.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\writing.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_key_play_pause.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\key_play_pause.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\anim_slide_right_in.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_document.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\document.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\layout_recorder.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\layout\\recorder.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pause_on.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\pause_on.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable_my_border.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable\\my_border.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_snip1.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\snip1.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tomtom0.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\tomtom0.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cymbol0.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\cymbol0.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_microphone.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\microphone.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_key_play.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\key_play.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_about1.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\about1.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pause1.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\pause1.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bass0.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\bass0.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_snare1.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\snare1.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\layout_play.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\layout\\play.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\layout_edit.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\layout\\edit.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_title.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\title.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_up.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\up.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\menu_editmenu.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\menu\\editmenu.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_repeat_restart_on.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\repeat_restart_on.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\home.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\menu_playmenu.xml.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\menu\\playmenu.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_repeat.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\repeat.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_main.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\main.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hihat0.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\hihat0.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cut.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\cut.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_record3.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\record3.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_recorder0.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\recorder0.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bass1.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\bass1.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_repeat_restart.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\repeat_restart.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_repeat_on.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\repeat_on.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tomtom1.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\tomtom1.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_start1.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\start1.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_play1.png.flat",
+        "source": "D:\\workspace\\AndroidStudioProjects\\sample\\AndriodSamples\\soundBoard\\src\\main\\res\\drawable-mdpi\\play1.png"
+    }
+]

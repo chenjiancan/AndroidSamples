@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/ll">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_gravity="center"
+        android:id="@+id/llChild"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Guidelines"
+            android:textSize="24sp"/>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:background="#8e8f91"
+            android:layout_marginTop="3dp"
+            android:layout_marginBottom="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="☻ Hold down a square to set its sound(s).  Once set, tap a square to play its sound(s)."
+            android:textSize="16sp"
+            android:layout_marginBottom="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="☻ The upper pad will play sounds in a sequence while the bottom pad will be fully up to you to trigger."
+            android:textSize="16sp"
+            android:layout_marginBottom="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="☻ To add a second sound to a square, select 'ADD SOUND'.  To replace the square's sound(s), select 'SWAP SOUND'."
+            android:textSize="16sp"
+            android:layout_marginBottom="10dp"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musicpad</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pref_previously_started_num">false</string>
+</resources>
