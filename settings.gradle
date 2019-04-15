@@ -1,2 +1,2 @@
-include ':app', ':launchpad', ':vitamio', ':djmediaplayer', ':gifdemo', ':servicedemo'
+include ':app', ':launchpad', ':vitamio', ':djmediaplayer', ':gifdemo', ':servicedemo', ':mediacodecexample', ':luaapplication', ':toucheventexam'
 include ':soundBoard'
